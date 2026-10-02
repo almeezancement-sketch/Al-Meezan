@@ -1,23 +1,24 @@
-[Project Name]
+[Al Meezan]
 
 [Project Tagline / Short Description]
 
 Team Members
 
-[Leader Name]
+[Adham Hesham Mustaf]
 
-[Member Name]
+[Mahmoud Taher Hanafy]
 
-[Member Name]
+[Ziead]
 
-[Member Name]
+[Mustafa Adel mustafa]
 
-[Member Name]
+[Maha Abdel Nasser Abdel]
 
+[Goody Mahfouz]
 
 Instructor
 
-[Instructor Name]
+[Sameh Ibrahim]
 
 
 Project Overview
